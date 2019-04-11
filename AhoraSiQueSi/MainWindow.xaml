@@ -8,6 +8,7 @@
         Title="MainWindow" Height="350" Width="525">
     <Grid>
         <Button x:Name="button" Content="hola, soy un botón :)" HorizontalAlignment="Left" Margin="148,117,0,0" VerticalAlignment="Top" Width="162" Height="63"/>
+        <TextBox x:Name="textBox" HorizontalAlignment="Left" Height="62" Margin="100,223,0,0" TextWrapping="Wrap" Text="HOLAAAAAA AY ALGUIEN HAYyy?" VerticalAlignment="Top" Width="277"/>
 
     </Grid>
 </Window>
