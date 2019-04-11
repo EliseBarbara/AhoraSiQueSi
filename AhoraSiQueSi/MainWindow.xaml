@@ -7,7 +7,7 @@
         mc:Ignorable="d"
         Title="MainWindow" Height="350" Width="525">
     <Grid>
-        <Button x:Name="button" Content="hola, soy un botón :)" HorizontalAlignment="Left" Margin="148,117,0,0" VerticalAlignment="Top" Width="162" Height="63"/>
+        <Button x:Name="button" Content="hola, soy un botón :)" HorizontalAlignment="Left" Margin="144,109,0,0" VerticalAlignment="Top" Width="202" Height="75"/>
 
     </Grid>
 </Window>
